@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+
+<main class="contact-us">
+    <div class="banner">
+      <img src="{% static './assets/images/about-final.png' %}" alt="" class="img-fluid w-100">
+      {% comment %} <h1 class="text-center">
+        About Us
+      </h1> {% endcomment %}
+    </div>
+    <section class="container mt-5 mb-5">
+      <div class="row mt-5">
+        <div class="col-md-4">
+        <br><br>
+          <img src="{% static './assets/images/above1.png' %}" alt="" class="img-fluid">
+        </div>
+        <div class="col-md-8 animate__animated animate__fadeInRight">
+          <h2 class="text-center">About Project</h2>
+          <p>Youtube a platform of <b>content creators👦📷</b>, <b>enterprenours👨‍💼</b>, <b>creative✨ minds🤯 and many more</b>. They all reach out 
+to a wide number of audience in <b>millions and billions</b>. A platform to <b>showcase🤹</b> your <b>talent🎨</b> in the industry🏢🏢,
+to get noticed🤳🤳 among 👨‍👨‍👦‍👦people👨‍👨‍👦‍👦, etc. It is none other than <b>YOUTUBE</b><br><br>
+
+Not only to showcase talent🎨 but any profession👨‍💼👨‍🎤🤾‍♂️🏊‍♂️ which you think that the community should be aware of. All are
+<b>"WELCOME"</b> And especially right now at the time of <b>COVID-19</b> people need some <b>entertainment</b> that's the reason the
+crowd on <b>YOUTUBE</b> has increased in the past years.<br><br>
+
+To reach out to a great audience <b>brands</b> especially in <b>electronic📷📱💻 segment</b> requests the <b>Youtubers</b> to
+<b>review their product📷📱💻</b> on their channel<b>(kind of 🎉brand promotion🎉)</b>, or if anybody wants to <b>invite</b> any youtuber of a <b>specific event🎉</b> or for a <b>charity</b> purpose so they can reach out📮📧 to them easily.
+For that they need to contact.This <b>YOUTUBERS</b> is made for these reasons🤔❓❓.
+</p>
+        </div>
+      </div>
+      <div class="row mt-5">
+
+        <div class="col-md-8  animate__animated animate__fadeInLeft  animate__delay-1s">
+          <h2 class="text-center">About Project</h2>
+          <h2>Features</h2><br>
+          <h5> - Google, Facebook authentication to register account🔐<br><br>
+              - Monitor your hired Youtuers💻<br><br>
+              - Hire Youtuer by submmiting forms📪📪✅<br><br>
+              - Detailed view of Individual Youtuber📙📕📘📗<br><br>
+              - Contact Team👨‍👨‍👦‍👦<br><br>
+              - Every Module has its separate Model⚡⚡
+          </h5>
+        </div>
+        <div class="col-md-4">
+        <br><br>
+          <img src="{% static './assets/images/tech.png' %}" alt="" class="img-fluid">
+        </div>
+      </div>
+    </section>
+
+    {% comment %} <section class="container mt-3">
+      <h3 class="text-center">Our Amazing Team</h3>
+      <p class="pt-2 pb-3 text-center">Meet the team</p>
+      <div class="team slider" data-slick='{"slidesToShow": 3, "slidesToScroll": 1}'>
+
+        <!-- team 1 -->
+        {% for team in teams %}
+        <div class="card border-0 text-center  ml-3 mr-3">
+          <img src="{{ team.photo.url }}" class="card-img-top" alt="team-member">
+          <div class="card-body">
+            <h5 class="card-title">{{ team.first_name }} {{ team.last_name }}</h5>
+            <p class="card-text">{{ team.role }}</p>
+            <a href="#" class="btn btn-accent btn-block">{{ team.first_name }}</a>
+            <div class="text-center mt-2">
+              <button class="btn btn-accent"> <i class="fab fa-facebook-f fa-lg	"></i> </button>
+              <button class="btn btn-accent"> <i class="fab fa-linkedin-in fa-lg	"></i> </button>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+
+       
+
+
+      </div>
+
+      <div class="controls d-flex justify-content-center mt-2 mb-2">
+        <div class="d-flex">
+          <i class="fa fa-angle-left team-left"></i>
+          <i class="fa fa-angle-right team-right"></i>
+        </div>
+      </div>
+    </section> {% endcomment %}
+  </main>
+
+{% endblock %}

@@ -1,0 +1,115 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+<main class="searchpage">
+    <div class="banner">
+      <img src="{% static './assets/images/search.png' %}" alt="" class="img-fluid w-100">
+      {% comment %} <h1 class="text-center">
+        Search Result
+      </h1> {% endcomment %}
+    </div>
+
+    <section class="searchbox container mt-5 p-3 bg-accent">
+      <form method="GET" action="{% url 'search' %}">
+        <div class="form-row">
+          <div class="form-group col-md-4">
+            <select name="city" id="inputState" class="form-control">
+              <option selected disabled hidden>City</option>
+              {% for city in city_search %}
+              <option value="{{city}}">{{city}}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="form-group col-md-4">
+            <select name="at.camera_type" id="inputState" class="form-control">
+              <option selected disabled hidden>Camera Type</option>
+              {% for camera in camera_type_search %}
+              <option value={{camera}}>{{camera}}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="form-group col-md-4">
+            <select name="category" class="form-control">
+              <option selected disabled hidden>Category</option>
+              {% for category in category_search %}
+              <option value={{category}}>{{category}}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
+            <div class="text-center">
+
+        <button class="btn btn-light">Search</button>
+      </div>
+      </form>
+      
+    </section>
+
+
+
+    <section class="search-results container mt-3 grid">
+
+
+
+      <!-- person 1 -->
+       {% for tuber in tubers %}
+            <div class="card border-0 text-center">
+              <div class="feature-text">
+              <a href="{% url 'youtubers_detail' tuber.id %}">
+                <img src="{{tuber.photo.url}}" class="card-img-top" alt="team-member">
+                </a>
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">{{tuber.name}}</h5>
+                <p class="card-text">{{tuber.category}}</p>
+                <div class="person-description mt-2">
+                  <button class="btn btn-accent"> City: {{tuber.city}} </button>
+                  <button class="btn btn-accent"> Age: {{tuber.age}} </button>
+                  <button class="btn btn-accent"> Height: {{tuber.height}} </button>
+                </div>
+                <div class="person-description mt-2">
+                  <button class="btn btn-accent"> Team: {{tuber.crew}} </button>
+                  <button class="btn btn-accent"> Camera: {{tuber.camera_type}} </button>
+                  <button class="btn btn-accent"> Subs: {{tuber.subs_count}} </button>
+                </div>
+              </div>
+            </div>
+            {% endfor %}
+
+
+
+
+
+      
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </section>
+  </main>
+
+
+{% endblock %}

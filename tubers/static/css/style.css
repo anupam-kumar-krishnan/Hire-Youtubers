@@ -1,0 +1,113 @@
+/* header */
+.header {
+	background-color: var(--secondary);
+	padding: 10px 0;
+	color: #fff;
+	border-bottom: 1px solid #333;
+}
+
+.header .flex {
+	justify-content: space-between;
+}
+
+.header a {
+	padding: 2px 15px;
+	border-radius: 5px;
+}
+
+.header a:hover {
+	animation: pulse; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 0.5s;
+}
+
+/* register */
+.register h1 {
+	color: var(--accent);
+}
+
+.register img {
+	width: 350px;
+}
+/* login */
+.login h1 {
+	color: var(--accent);
+}
+
+.login img {
+	width: 450px;
+}
+
+.login .form-btn {
+	border-radius: 8px;
+}
+
+/* about us */
+.about-us .btn {
+	padding: 5px 20px;
+}
+/* footer */
+footer .container {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+/* search page */
+
+.search-results {
+	justify-items: center;
+}
+
+/* tubers */
+
+.tubers-page .tubers {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	row-gap: 30px;
+	column-gap: 10px;
+	justify-items: center;
+}
+
+.single-page-tubers .head img {
+	height: 150px;
+	border-radius: 5px;
+}
+.single-page-tubers .video img {
+	height: 450px;
+	border-radius: 5px;
+}
+
+.controls {
+}
+
+.controls i {
+	background-color: #fff;
+	padding: 10px 15px;
+	font-size: 35px;
+	color: var(--accent);
+}
+
+.controls i:first-child {
+	border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+}
+.controls i:last-child {
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+.home .tubers {
+	justify-items: center;
+}
+
+.top-banner {
+	position: relative;
+}
+.top-banner img {
+	height: 380px;
+	width: 100%;
+}
+.home .top-banner .top-container {
+	position: absolute;
+	top: 30%;
+	left: 0;
+}

@@ -1,0 +1,37 @@
+@media only screen and (max-width: 995px) {
+	.grid {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+@media only screen and (max-width: 750px) {
+	header .header-buttons {
+		justify-content: center !important;
+		align-items: center;
+		padding-top: 10px;
+	}
+	header .header-info {
+		text-align: center;
+	}
+
+	.banner img {
+		height: 250px;
+	}
+	.top-banner img {
+		height: 300px;
+	}
+
+	.grid {
+		grid-template-columns: 1fr;
+	}
+
+	.tubers-page .tubers {
+		grid-template-columns: 1fr;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	.banner img {
+		height: 150px;
+	}
+}

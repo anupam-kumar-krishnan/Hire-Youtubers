@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+
+<main class="login container">
+    <h1 class="text-center mt-5 mb-5 animate__animated animate__slideInDown">
+      Login
+    </h1>
+    <div class="row">
+    <div class="col-md-4 offset-md-4">
+    {% include 'messages.html' %}
+    </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6 ">
+        <img src="{% static './assets/images/signin.png' %}" class="img-fluid" alt="img" style="height: 500px; width: 450px; margin-top: -8%;">
+      </div>
+      <form method="POST" action="{% url 'login' %}" class="col-md-5 offset-1">
+        {% csrf_token %}
+        <div class="form-group">
+          <input name="username" class="form-control" placeholder="User Name">
+        </div>
+
+        <div class="form-group">
+          <input name="password" type="password" class="form-control" placeholder="Password">
+        </div>
+
+
+        <button type="submit" class="btn btn-accent form-btn w-100 mt-3 mb-3">Signin</button>
+        <div class="text-center">
+          OR
+        </div>
+
+        <button class="btn btn-primary form-btn w-100 mt-3">Facebook</button>
+        <button class="btn btn-accent form-btn w-100 mt-3 mb-3">Google</button>
+
+      </form>
+    </div>
+  </main>
+
+
+
+{% endblock %}

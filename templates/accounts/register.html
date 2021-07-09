@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+{% load socialaccount %}
+{% providers_media_js %}
+
+<main class="register container">
+    <h1 class="text-center mt-5 mb-5">
+      Register
+    </h1>
+    <div class="row">
+    <div class="col-md-4 offset-md-4">
+    {% include 'messages.html' %}
+    </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6 ">
+        <img src="{% static './assets/images/acnt.png' %}" class="img-fluid" alt="img" style="width: 700px; height:700px; margin-top: -13%;">
+      </div>
+      
+      <form method="POST" action="{% url 'register' %}" class="col-md-5 offset-md-1">
+        {% csrf_token %}
+        <div class="form-group">
+          <input name="firstname" class="form-control" placeholder="First Name" required>
+        </div>
+        <div class="form-group">
+          <input name="lastname" class="form-control" placeholder="Last Name">
+        </div>
+        <div class="form-group">
+          <input name="username" class="form-control" placeholder="UserName">
+        </div>
+        <div class="form-group">
+          <input name="email" type="email" class="form-control" placeholder="Email Address">
+        </div>
+        <div class="form-group">
+          <input name="password" type="password" class="form-control" placeholder="Password">
+        </div>
+        <div class="form-group">
+          <input name="confirm_password" type="password" class="form-control" placeholder="Confirm Password">
+        </div>
+
+        <button type="submit" class="btn btn-accent form-btn w-100 mt-3 mb-3">Signup</button>
+        <div class="text-center">
+          OR
+        </div>
+
+        <a href="{% provider_login_url 'facebook' method='oauth2' %}" class="btn btn-primary form-btn w-100 mt-3">Facebook</a>
+        <button class="btn btn-accent form-btn w-100 mt-3 mb-3">Google</button>
+
+      </form>
+    </div>
+  </main>
+
+{% endblock %}

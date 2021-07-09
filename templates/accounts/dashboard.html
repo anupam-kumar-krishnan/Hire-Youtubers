@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+<main class="contact-us">
+    <div class="banner">
+      <img src="{% static './assets/images/db.png' %}" alt="" class="img-fluid w-100">
+      {% comment %} <h1 class="text-center">
+        Dashboard
+      </h1> {% endcomment %}
+    </div>
+
+    <section class="container mt-5">
+      <h2 class="text-center">Welcome to Dashboard</h2>
+      <h4 class="text-center text-white-50">
+        {% if user.is_authenticated %}
+        Welcome, {{ user.first_name }}
+        {% endif %}
+      </h4>
+
+      <div class="table-responsive- mt-3">
+
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">YouTubers Name</th>
+              <th scope="col">City</th>
+              <th scope="col">Visit</th>
+            </tr>
+          </thead>
+          <tbody>
+          {% for at in all_tubers %}
+            <tr>
+              <th scope="row">1</th>
+              <td>{{ at.first_name }}</td>
+              <td>{{ at.city }}</td>
+              <td>
+                <a href="{% url 'youtubers_detail' ht.tuber_id %}" class="btn btn-accent">Go to Page </a>
+              </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+
+    </section>
+  </main>
+
+{% endblock %}

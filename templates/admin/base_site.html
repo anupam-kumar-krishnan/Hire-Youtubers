@@ -1,0 +1,25 @@
+{% extends "admin/base.html" %}
+{% load i18n static admin_style_tags %}
+
+{% block extrastyle %}
+{{ block.super }}
+{% include 'admin/inc/extrastyle.html' %}
+{% endblock %}
+
+{% block extrahead %}
+{{ block.super }}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" type="text/css" href="{% static 'djangocms_admin_style/css/djangocms-admin.css' %}" />
+{% if request.user.is_superuser %}{% render_update_notification %}{% endif %}
+<script src="{% static 'djangocms_admin_style/js/dist/bundle.adminstyle.min.js' %}"></script>
+{% include 'admin/inc/extrahead.html' %}{% endblock %}
+
+{% block title %}{% include 'admin/inc/title.html' %}{% endblock %}
+
+{% block bodyclass %}{{ block.super }} djangocms-admin-style{% endblock %}
+
+{% block branding %}{% include 'admin/inc/branding.html' %}{% endblock %}
+
+{% block userlinks %}{% include 'admin/inc/userlinks.html' %}{{ block.super }}{% endblock %}
+
+{% block nav-global %}{% endblock %}

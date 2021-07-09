@@ -1,0 +1,47 @@
+.bg-accent {
+	color: #ffffff;
+	background-color: var(--accent);
+}
+.text-accent {
+	color: var(--accent);
+}
+
+.banner {
+	position: relative;
+}
+.banner img {
+	height: 350px;
+	width: 100%;
+}
+.banner h1 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	row-gap: 30px;
+	column-gap: 10px;
+}
+
+.feature-text {
+	position: relative;
+}
+.feature-text span {
+	position: absolute;
+	top: 10%;
+	left: 0;
+	padding: 5px 10px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	/* transform: translate(-50%, 0); */
+}
+
+.person-description {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	column-gap: 10px;
+}
