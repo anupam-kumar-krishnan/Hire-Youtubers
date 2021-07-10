@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-*u9qa@uw4mr)=x10fk(a(x$p(3^k(&@*kg*%@1rz701r7!t*c!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*','https://hire-youtubers.herokuapp.com/']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
