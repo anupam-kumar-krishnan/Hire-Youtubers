@@ -16,15 +16,30 @@ To reach out to a great audience of brands especially in the electronic📷📱�
 # Home Page
 ![home](https://user-images.githubusercontent.com/69143883/125152812-ec2cab00-e16c-11eb-9613-020a00d5be47.PNG)
 
+# Featured Section
+![featured](https://user-images.githubusercontent.com/69143883/125652175-7153483c-c3e9-4f58-8f7d-4b63a2a7a07c.PNG)
+
+# Onboard Section
+![onboarded](https://user-images.githubusercontent.com/69143883/125652361-b6a83f53-d5d1-42e9-be51-1210c9f8d791.PNG)
+
+# Team Section
+![team](https://user-images.githubusercontent.com/69143883/125652374-6f5ad78a-2293-453a-a7dd-290f8d2e9c0e.PNG)
+
+# Login
+![login](https://user-images.githubusercontent.com/69143883/125652651-651d7aeb-b224-4586-96fa-42a512a6fce8.PNG)
+
+# Register
+![register](https://user-images.githubusercontent.com/69143883/125652676-8ea9b654-6cc4-4908-896e-1687f68f0b45.PNG)
+
+# Contact Section 
+![contact](https://user-images.githubusercontent.com/69143883/125652786-d89f7da3-aea2-4f73-bd64-39e498d1ae7a.PNG)
+
 # Features
- - <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> authentication to register account🔐
+ - <img src="https://img.shields.io/badge/Google-EF4041?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> authentication to register account🔐
  - Monitor your hired Youtubers💻
  - Hire Youtuber by submmiting forms📪📪✅
  - Detailed view of Individual Youtuber📙📕📘📗
  - Contact Team👨‍👨‍👦‍👦
  - Every Module has its separate Model⚡⚡
 
-# To be fixed/add
-  <img src="https://img.shields.io/badge/Google-EF4041?style=for-the-badge&logo=google&logoColor=white"> <br>
- - <b>Google</b> authentication needs a fix:hammer:<br>
- - For now Google Auth is disabled
+
