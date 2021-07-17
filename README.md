@@ -13,8 +13,18 @@ Not only to showcase talent🎨 but any profession👨‍💼👨‍🎤🤾‍�
 
 To reach out to a great audience of brands especially in the electronic📷📱💻 segment request the Youtubers to review their product📷📱💻 on their channel(kind of 🎉brand promotion🎉), or if anybody wants to invite any Youtuber to a specific event🎉 or for a charity purpose so they can reach out📮📧 to them easily. For that, they need to contact. This YOUTUBERS is made for these reasons🤔❓❓.
 
+
+# Features
+ - <img src="https://img.shields.io/badge/Google-EF4041?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> authentication to register account🔐
+ - Monitor your hired Youtubers💻
+ - Hire Youtuber by submmiting forms📪📪✅
+ - Detailed view of Individual Youtuber📙📕📘📗
+ - Contact Team👨‍👨‍👦‍👦
+ - Every Module has its separate Model⚡⚡
+
 # Home Page
 ![home](https://user-images.githubusercontent.com/69143883/125152812-ec2cab00-e16c-11eb-9613-020a00d5be47.PNG)
+
 
 # Featured Section
 ![featured](https://user-images.githubusercontent.com/69143883/125652175-7153483c-c3e9-4f58-8f7d-4b63a2a7a07c.PNG)
@@ -34,12 +44,6 @@ To reach out to a great audience of brands especially in the electronic📷📱�
 # Contact Section 
 ![contact](https://user-images.githubusercontent.com/69143883/125652786-d89f7da3-aea2-4f73-bd64-39e498d1ae7a.PNG)
 
-# Features
- - <img src="https://img.shields.io/badge/Google-EF4041?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> authentication to register account🔐
- - Monitor your hired Youtubers💻
- - Hire Youtuber by submmiting forms📪📪✅
- - Detailed view of Individual Youtuber📙📕📘📗
- - Contact Team👨‍👨‍👦‍👦
- - Every Module has its separate Model⚡⚡
+
 
 
