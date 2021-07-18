@@ -32,6 +32,13 @@ To reach out to a great audience of brands especially in the electronic📷📱�
 # Onboard Section
 ![onboarded](https://user-images.githubusercontent.com/69143883/125652361-b6a83f53-d5d1-42e9-be51-1210c9f8d791.PNG)
 
+# Detailed Review
+![Capture](https://user-images.githubusercontent.com/69143883/126069045-c4dd6dca-0150-4012-a51b-d86cdd9b4cad.PNG)
+![details](https://user-images.githubusercontent.com/69143883/126069189-b7d3e5ea-2555-48d9-9a3a-cbf52d67acc8.PNG)
+![reshout](https://user-images.githubusercontent.com/69143883/126069196-db6d6b19-cfce-4f00-989e-bd0c700f1a41.PNG)
+
+
+
 # Team Section
 ![team](https://user-images.githubusercontent.com/69143883/125652374-6f5ad78a-2293-453a-a7dd-290f8d2e9c0e.PNG)
 
