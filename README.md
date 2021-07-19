@@ -15,7 +15,7 @@ To reach out to a great audience of brands especially in the electronic📷📱�
 
 
 # Features
- - <img src="https://img.shields.io/badge/Google-EF4041?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> authentication to register account🔐
+ - <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> authentication to register account🔐
  - Monitor your hired Youtubers💻
  - Hire Youtuber by submmiting forms📪📪✅
  - Detailed view of Individual Youtuber📙📕📘📗
