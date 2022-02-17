@@ -1,4 +1,4 @@
-# _Hire - Youtubers_
+# <p align="center">_HIRE - YOUTUBERS_</p>
 ![db](https://user-images.githubusercontent.com/69143883/123768542-0b624780-d8e6-11eb-9a4e-0aab7c56ff8f.gif)
 
 
