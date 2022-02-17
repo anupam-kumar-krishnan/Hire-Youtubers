@@ -4,8 +4,7 @@
 
 ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)<br><br>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&width=400%">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
-
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&width=400%">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 # _About_
 ![about-final](https://user-images.githubusercontent.com/69143883/123825902-e76e2880-d91c-11eb-8082-30a96d803d18.png)
 _<b>Youtubers<b> a platform for <b>content creators👦📷, entrepreneurs👨‍💼, creative✨ minds🤯 , and many more.<b> They all reach out to a wide audience in <b>millions and billions.<b> A platform to showcase🤹 your <b>talent🎨 in the industry🏢🏢, to get noticed<b>🤳🤳 among 👨‍👨‍👦‍👦people👨‍👨‍👦‍👦, etc. It is none other than YOUTUBE_
@@ -23,11 +22,11 @@ _To reach out to a great audience of brands especially in the electronic📷📱
  - Contact Team👨‍👨‍👦‍👦
  - Every Module has its separate Model⚡⚡
 
-# 📌 _Home Page_
+# 📌 _Home Page_ 🏠
 ![home](https://user-images.githubusercontent.com/69143883/125152812-ec2cab00-e16c-11eb-9613-020a00d5be47.PNG)
 
 
-# 📌 _Featured Section_
+# 📌 _Featured Section_ 💡
 ![featured](https://user-images.githubusercontent.com/69143883/125652175-7153483c-c3e9-4f58-8f7d-4b63a2a7a07c.PNG)
 
 # 📌 _Onboard Section_
@@ -40,16 +39,16 @@ _To reach out to a great audience of brands especially in the electronic📷📱
 
 
 
-# 📌 _Team Section_
+# 📌 _Team Section_ 👪
 ![team](https://user-images.githubusercontent.com/69143883/125652374-6f5ad78a-2293-453a-a7dd-290f8d2e9c0e.PNG)
 
-# 📌 _Login_
+# 📌 _Login_ 🔒🗝️
 ![login](https://user-images.githubusercontent.com/69143883/125652651-651d7aeb-b224-4586-96fa-42a512a6fce8.PNG)
 
 # 📌 _Register_
 ![register](https://user-images.githubusercontent.com/69143883/125652676-8ea9b654-6cc4-4908-896e-1687f68f0b45.PNG)
 
-# 📌 _Contact Section_ 
+# 📌 _Contact Section_ 📞📲
 ![contact](https://user-images.githubusercontent.com/69143883/125652786-d89f7da3-aea2-4f73-bd64-39e498d1ae7a.PNG)
 
 
