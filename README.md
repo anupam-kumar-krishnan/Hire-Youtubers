@@ -1,17 +1,30 @@
 # <p align="center">_HIRE - YOUTUBERS_</p>
-![db](https://user-images.githubusercontent.com/69143883/123768542-0b624780-d8e6-11eb-9a4e-0aab7c56ff8f.gif)
+![Full Stack JavaScript Web Developer Bootcamp (1)](https://user-images.githubusercontent.com/69143883/212741282-1d2d83b3-00f1-4b34-9101-e00903223b96.png)
 
 
 ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)<br><br>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&width=400%">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+## _Tech Stack_
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&width=400%">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 # _About_
 ![about-final](https://user-images.githubusercontent.com/69143883/123825902-e76e2880-d91c-11eb-8082-30a96d803d18.png)
-_<b>Youtubers<b> a platform for <b>content creators👦📷, entrepreneurs👨‍💼, creative✨ minds🤯 , and many more.<b> They all reach out to a wide audience in <b>millions and billions.<b> A platform to showcase🤹 your <b>talent🎨 in the industry🏢🏢, to get noticed<b>🤳🤳 among 👨‍👨‍👦‍👦people👨‍👨‍👦‍👦, etc. It is none other than YOUTUBE_
+<i><b>
+```
+Youtubers a platform for <b>content creators👦📷, entrepreneurs👨‍💼, creative✨ minds🤯 , and many more.
+They all reach out to a wide audience in millions and billions.A platform to showcase🤹 your talent🎨 in the industry🏢🏢,
+to get noticed🤳🤳 among 👨‍👨‍👦‍👦people👨‍👨‍👦‍👦, etc. It is none other than YOUTUBE
 
-_Not only to showcase talent🎨 but any profession👨‍💼👨‍🎤🤾‍♂️🏊‍♂️ which you think that the community should be aware of. All are "WELCOME" And especially right now at the time of COVID-19 people need some entertainment that's the reason the crowd on YOUTUBE has increased in the past years._
+Not only to showcase talent🎨 but any profession👨‍💼👨‍🎤🤾‍♂️🏊‍♂️ which you think that the community should be aware of.
+All are "WELCOME" And especially right now at the time of COVID-19 people need some entertainment that's the reason
+the crowd on YOUTUBE has increased in the past years.
 
-_To reach out to a great audience of brands especially in the electronic📷📱💻 segment request the Youtubers to review their product📷📱💻 on their channel(kind of 🎉brand promotion🎉), or if anybody wants to invite any Youtuber to a specific event🎉 or for a charity purpose so they can reach out📮📧 to them easily. For that, they need to contact. This YOUTUBERS is made for these reasons🤔❓_
+To reach out to a great audience of brands especially in the electronic📷📱💻 segment request the Youtubers to review 
+their product📷📱💻 on their channel(kind of 🎉brand promotion🎉), or if anybody wants to invite any Youtuber to a 
+specific event🎉 or for a charity purpose so they can reach out📮📧 to them easily. 
+For that, they need to contact. This YOUTUBERS is made for these reasons🤔
+```
+</b></i>
 
 
 # _Features_
