@@ -19,10 +19,14 @@ Not only to showcase talent🎨 but any profession👨‍💼👨‍🎤🤾‍�
 aware of. All are "WELCOME" And especially right now at the time of COVID-19 people need some entertainment
 that's the reason the crowd on YOUTUBE has increased in the past years.
 
-To reach out to a great audience of brands especially in the electronic📷📱💻 segment request the Youtubers
-to review their product📷📱💻 on their channel(kind of 🎉brand promotion🎉), or if anybody wants to invite
-any Youtuber to a specific event🎉 or for a charity purpose so they can reach out📮📧 to them easily. 
-For that, they need to contact. This YOUTUBERS is made for these reasons🤔
+To reach out to a great audience of brands especially in the electronic📷📱💻 segment request the
+Youtubers to review their product📷📱💻 on their channel(kind of 🎉brand promotion🎉), or if 
+anybody wants to invite any Youtuber to a specific event🎉 or for a charity purpose so they can
+reach out📮📧 to them easily. 
+
+For these events to happen, they need to contact the Youtubers. 
+
+This HIRE-YOUTUBERS is made for these reasons🤔
 ```
 </b></i>
 
