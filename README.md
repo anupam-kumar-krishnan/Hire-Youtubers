@@ -16,8 +16,8 @@ They all reach out to a wide audience in millions and billions.A platform to sho
 in the industry🏢🏢, to get noticed🤳🤳 among 👨‍👨‍👦‍👦people👨‍👨‍👦‍👦, etc. It is none other than YOUTUBE
 
 Not only to showcase talent🎨 but any profession👨‍💼👨‍🎤🤾‍♂️🏊‍♂️ which you think that the community should be
-aware of. All are "WELCOME" And especially right now at the time of COVID-19 people need some entertainment
-that's the reason the crowd on YOUTUBE has increased in the past years.
+aware of. All are "WELCOME" And especially right now at the time of COVID-19 people need some 
+entertainment that's the reason the crowd on YOUTUBE has increased in the past years.
 
 To reach out to a great audience of brands especially in the electronic📷📱💻 segment request the
 Youtubers to review their product📷📱💻 on their channel(kind of 🎉brand promotion🎉), or if 
